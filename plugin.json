@@ -1,0 +1,11 @@
+{
+  "name": "3d-web-designer",
+  "description": "Design-focused agent for creating 3D website designs and previews. Generates mockup images, interactive CSS 3D previews inline in chat, and standalone Three.js HTML scenes with free 3D models. Like Figma, but for 3D web design.",
+  "version": "1.0.0",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Design a 3D landing page for a sneaker brand with floating product and glassmorphism UI",
+    "Show me an interactive 3D card grid with hover perspective effects",
+    "Create a Three.js preview with a rotating 3D model on a dark gradient background"
+  ]
+}
